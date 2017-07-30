@@ -8,7 +8,8 @@ After you've installed HomeBridge on Pi:
 1. ```cd ~/.homebridge```
 2. ```touch config.json```
 3. ```nano config.json```
-4. ```json
+4. 
+```json
 {
   "bridge": {
     "name": "Homebridge",
